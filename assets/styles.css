@@ -43,10 +43,6 @@ h1 {
   font-weight: 600;
 }
 
-h1 span{
-	display: none;
-}
-
 h2 {
   	margin: 0px;
 	text-transform: uppercase;
@@ -64,7 +60,7 @@ h1.title{
 }
 
 h1.title span{
-
+  display: none;
   }
 
 h2.claim{
@@ -114,6 +110,14 @@ blockquote cite {
 
 form{
   margin-bottom: 20px;
+}
+
+.hide{
+	display: none;
+}
+
+.lowercase{
+	text-transform: lowercase;
 }
 
 /* Colors */
