@@ -132,6 +132,10 @@ form{
   background-color: #060871;
   }
 
+.btn-red{
+  background: #e03e51;
+  color: #FFF;  
+}
 
 /* Form */
 .form-control, .btn{
